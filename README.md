@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋</h2>
 
-I am a senior 2 Mechatronics Engineering student.
+I am a senior 2 Mechatronics Engineering student. 👷🏻‍♂️
 
 <div align="center">
   
