@@ -1,4 +1,12 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋</h2>�
+
+I am a senior 2 Mechatronics Engineering student.
+
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/jackoviic/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackoviic&layout=compact&theme=buefy&hide_border=true" /></a> 
+  
+</div>
 
 <!--
 **Jackoviic/Jackoviic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +21,29 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+I am an Android and iOS developer, as well as a Python full-stack developer and data mining enthusiast.
+
+<div align="center">
+
+[![](https://img.shields.io/badge/-Blog-orange?style=for-the-badge&color=8B4513&logo=rss&logoColor=white)](https://buyixiao.github.io/)
+[![](https://img.shields.io/badge/-Wechat-green?style=for-the-badge&color=006400&logo=wechat&logoColor=white)](https://github.com/Python3Spiders/WeiboSuperSpider/blob/master/qrcode.jpg)
+
+</div>
+
+
+- 🔭 I’m currently ~~working on kuaishou.corp as an android research & development engineer~~ sleeping on my home bed, on yeah~
+- 🌱 I hold a Bachelor of Engineering degree from Central South University
+- 🤔 I have written some webspiders and made a bit of funny analysis，see https://github.com/Python3Spiders/
+- 🍉 I have also developed some online tools such as [https://weibo-crawl-visual.buyixiao.xyz/](https://weibo-crawl-visual.buyixiao.xyz/) and [https://tools.buyixiao.xyz/](https://tools.buyixiao.xyz/)
+- 💬 Ask me about java & android & data-mining & mini-program & python full stack & data visualization & chrome-extension & unity3d & swift & esp32...
+- 📦 scan my **WeChat Official Account QR Code** below，you can be the first to see my latest original articles
+
+<div align="center">
+  
+![](https://github.com/Python3Spiders/WeiboSuperSpider/blob/master/qrcode.jpg)
+  
+</div>
 -->
