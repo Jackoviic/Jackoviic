@@ -1,14 +1,58 @@
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">Hi there, It's Jack! 👋</h2>
 
-I am a senior 2 Mechatronics Engineering student. 👷🏻‍♂️
-
-<div align="center">
-  
-<a href="https://www.linkedin.com/in/jackoviic/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackoviic&layout=compact&theme=buefy&hide_border=true" /></a> 
-  
-</div>
 
 <!--
+## 🚀 About Me
+- 🎓 Mechatronics Engineer with strong background in **Artificial Intelligence** & **Robotics**  
+- 🤖 Hands-on experience with **ROS2**, robot simulation, and mechatronic systems  
+- 🧠 Studied **Artificial Intelligence from basics to advanced topics (Computer Vision and Natural Language Processing)**  
+- 🔬 Interested in building **intelligent robots that integrate AI + Control systems**  
+- 🌍 Always open to collaborations in **Robotics, AI research, and innovative startups**  
+
+---
+
+## 📌 Featured Projects
+- 🤖 **ROS2 Robot Simulation** – Designed and simulated autonomous robots with ROS2 & Gazebo   
+- 🤝 **Mechatronics Projects** – Integrated AI with control systems for robotics applications  
+- 📊 **Probability & Statistics for AI** – Applied advanced mathematics in machine learning models  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Languages & Tools
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
+![MATLAB](https://img.shields.io/badge/MATLAB-FF9900?style=for-the-badge&logo=mathworks&logoColor=white) 
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-2C2C2C?style=for-the-badge&logo=chip&logoColor=white)
+
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   
+</div>
+
+---
+
+
+## 📈 GitHub Stats
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jackoviic&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackoviic&layout=compact&theme=tokyonight)
+</div>
+
+---
+
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/Jackoviic/)  
+
+---
+
 **Jackoviic/Jackoviic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,8 +67,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-
-I am an Android and iOS developer, as well as a Python full-stack developer and data mining enthusiast.
 
 <div align="center">
 
@@ -43,7 +85,20 @@ I am an Android and iOS developer, as well as a Python full-stack developer and 
 
 <div align="center">
   
-![](https://github.com/Python3Spiders/WeiboSuperSpider/blob/master/qrcode.jpg)
+<a href="https://www.linkedin.com/in/jackoviic/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackoviic&layout=compact&theme=buefy&hide_border=true" /></a> 
   
 </div>
+
+---
+
+## 🚀 About Me
+- 🎓 Mechatronics Engineer with strong background in **Artificial Intelligence** & **Robotics**  
+- 🤖 Hands-on experience with **ROS2**, robot simulation, and mechatronic systems  
+- 🧠 Studied **Artificial Intelligence from basics to advanced topics (Computer Vision and Natural Language Processing)**  
+- 🔬 Interested in building **intelligent robots that integrate AI + Control systems**  
+- 🌍 Always open to collaborations in **Robotics, AI research, and innovative startups**  
+
+---
+
+- 📧 Email: j@gmail.com  
 -->
